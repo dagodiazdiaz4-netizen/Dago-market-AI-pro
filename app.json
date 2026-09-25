@@ -1,27 +1,2 @@
-{
-  "expo": {
-    "name": "Dago Market AI Pro",
-    "slug": "Dago-market-AI-pro",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
-  }
-}
+
+{ "expo": { "name": "Dago Market AI PRO", "slug": "dago-market-ai-pro", "version": "1.0.0","orientation": "portrait", "icon": null, "userInterfaceStyle": "dark", "splash": {"resizeMode": "contain", "backgroundColor": "#111111" }, "ios": { "supportsTablet": true },"android": { "adaptiveIcon": { "backgroundColor": "#111111" }, "package": "com.dago.marketaipro" }, "web": { "favicon": null } } }
